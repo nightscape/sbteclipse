@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.typesafe.sbteclipse
+package com.typesafe
 
 package object sbteclipse {
 

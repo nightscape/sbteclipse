@@ -1,7 +1,7 @@
 sbteclipse
 ==========
 
-Welcome to sbteclipse.
+sbteclipse 3.0.0 => Work in progress ... for production use sbteclipse 2.x!
 
 
 Contribution policy
