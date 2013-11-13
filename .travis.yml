@@ -1,0 +1,10 @@
+language: scala
+scala:
+  - 2.10.3
+jdk:
+   - oraclejdk7
+cache:
+  directories:
+  - $HOME/.ivy2
+script:
+  - sbt scripted
