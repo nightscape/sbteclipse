@@ -8,6 +8,8 @@ name := "sbteclipse-test"
 
 version := "1.2.3"
 
+updateOptions := updateOptions.value.withCachedResolution(true)
+
 libraryDependencies += "ch.qos.logback" % "logback-classic" % "1.0.1"
 
 libraryDependencies += "biz.aQute" % "bndlib" % "1.50.0" withSources()
